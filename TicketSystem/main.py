@@ -90,6 +90,7 @@ def main_menu():
  may take a moment to complete.")
 ===================================================
     """)
+    input("\nPress Enter to start...")
     while True:
         system("clear||cls")
         print("""
